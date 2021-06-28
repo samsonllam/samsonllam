@@ -24,5 +24,5 @@ Entrepreneurship | FinTech Accelerator | Software Engineer
 
 ## Blog Post
 <!-- BLOG-POST-LIST:START -->
- 
+- [Asia MSP Summit | Microsoft Student Partner](https://medium.com/@samsonllam/asia-msp-summit-microsoft-student-partner-12b615aabb5d?source=rss-fee70c7e621a------2)
 <!-- BLOG-POST-LIST:END -->
