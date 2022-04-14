@@ -1,5 +1,5 @@
 # Samson F.P. Lam
-Entrepreneurship | FinTech Accelerator | Software Engineer
+**Entrepreneurship | FinTech Accelerator | Software Engineer**
 - 🔭 Working on Fullstack Projects
 - 📅 System & Database Design
 - 🖼️ UIUX Design
