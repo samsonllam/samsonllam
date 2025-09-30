@@ -1,5 +1,5 @@
 # Samson F.P. Lam
-**Entrepreneurship | FinTech Accelerator | Software Engineer**
+**Tech Lead | Blockchain | Crypto | Web3**
 - 🔭 Working on Full Stack Projects
 - 📅 System & Database Design
 - 🖼️ UIUX Design
